@@ -9,7 +9,7 @@ function drawName() {
 
 }
 context.beginPath();
-context.strokeStyle = "purple";
+context.strokeStyle = "black";
 context.rect(20, 300, 150, 20);
 context.rect(20, 300, 20, 150)
 context.rect(20, 450, 150, 20)
