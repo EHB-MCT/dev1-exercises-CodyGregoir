@@ -46,3 +46,4 @@ context.strokeStyle = "red";
 context.moveTo(50, 200);
 context.lineTo(200, 50);
 context.stroke();
+
